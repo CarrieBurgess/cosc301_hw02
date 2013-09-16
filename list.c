@@ -24,7 +24,7 @@ void list_clear(struct node *list) {
 }
 
 
-void list_print(const struct node *head) {
+void list_print_matches(const char *name, const struct node *head) {
     // your code here
     
 }
